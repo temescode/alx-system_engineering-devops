@@ -1,2 +1,2 @@
 #!/bin/bash
-robocopy olleh hello
+chmod --reference=olleh hello
